@@ -6,6 +6,7 @@ root: intro
 parts:
   - caption: ""
     chapters:
-    - url: https://deugz.github.io/sp-Science_Journey/build/html/index.html
-      title: "🏠 Home"
+    - file: to-include
+    
+
 
